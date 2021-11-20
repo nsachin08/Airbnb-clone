@@ -1,0 +1,19 @@
+.banner {
+  background: url("https://media.cntraveler.com/photos/5db1d0dbceb13600094a42ba/master/w_2247,h_1500,c_limit/airbnb-ski-stowe-15873902.jpg")
+    center center;
+  height: 50vh;
+  position: relative;
+}
+
+.banner__info {
+  background-color: black;
+  color: white;
+  padding: 25vh 50px 50px 40px;
+  width: 300px;
+}
+
+.banner__info > button {
+  background-color: #ff7779;
+  color: white;
+  text-transform: inherit;
+}
